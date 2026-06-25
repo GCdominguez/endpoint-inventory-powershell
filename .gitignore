@@ -1,0 +1,6 @@
+Reports/
+History/
+*.json
+*.log
+endpoint-summary-*.txt
+endpoint-report-*.json
